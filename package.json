@@ -1,0 +1,19 @@
+{
+  "name": "circleci",
+  "version": "1.0.0",
+  "description": "Web App Test",
+  "main": "app.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rowan Walker",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdom": "^25.0.1"
+  },
+  "dependencies": {
+    "punycode": "^2.3.1",
+    "text-encoding": "^0.7.0"
+  }
+}
